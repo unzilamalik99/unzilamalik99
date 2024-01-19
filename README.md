@@ -12,8 +12,19 @@
 [![Linkedin: Unzila Malik](https://img.shields.io/badge/-Unzila%20Malik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/unzila-malik-254038298/)](https://www.linkedin.com/in/unzila-malik-254038298/)
 [![GitHub Unzila Malik](https://img.shields.io/github/followers/unzilamalik99?label=follow&style=social)](https://github.com/unzilamalik99)
 
+
+### Frontend Development
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Redux](https://img.icons8.com/color/48/000000/redux.png) 
+![Next.js](https://img.icons8.com/color/48/000000/next.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![RESTful API](https://img.icons8.com/color/48/000000/api.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+
 <!-- About Me Section -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+ A little more about me...
 
 ```javascript
 const unzila = {
