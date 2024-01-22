@@ -27,7 +27,7 @@
  A little more about me...
 
 ```javascript
-const unzila = {
+const Unzila_Malik = {
   pronouns: "she" and "her",
   code: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS", "Python"]
   tools: [React, Redux, Node, ReactHooks, Styled-Components, RestfulApi, Routing],
