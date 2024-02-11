@@ -1,5 +1,6 @@
 <!-- Header Section -->
-<h2> Hi, I'm Unzila Malik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Unzila Malik![![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=25&vCenter=true&lines=Hi+there+%2CI'm+Sahoochinmay;I+develop+react+applications;You+can+c%C3%B8ntact+me+in+linkedin.;)](https://sahoochinmay.github.io)
+ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 <!-- Introduction Section -->
