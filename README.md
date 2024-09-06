@@ -55,13 +55,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming)
 
-## ✅ Github Contributions
 
-<a href="https://github.com/unzilamalik99">
-  <div align="center">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unzilamalik99" />
-  </div>
-</a>
 
 
 ---
